@@ -1,0 +1,16 @@
+{
+  "name": "LRUCache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lru-cache.js",
+  "scripts": {
+    "test": "mocha ./lru.test.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
